@@ -1,6 +1,6 @@
 QuickTask Pro
 =============
-Version: 1.2
+Version: 1.3
 License: MIT
 
 QuickTask Pro is a sophisticated task management application built with Flutter and Dart, utilizing Back4App (Parse Platform) for its backend. It demonstrates full-stack mobile development with real-time features.
