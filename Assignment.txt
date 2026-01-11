@@ -16,7 +16,7 @@ QuickTask is a simplified task management application designed to organize tasks
 *   Ensure each task includes a **Title** and a **Due Date**.
 
 ### C. Task Status
-*   Allow tasks to be marked as **Completed** or **Incomplete**.
+*   Allow tasks to be marked as **Completed** or **Pending**.
 *   Provide a mechanism to toggle the status of existing tasks.
 
 3. OPTIONAL FEATURES (Bonus)
