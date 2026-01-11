@@ -1,25 +1,30 @@
-
-/QuickTask_app/.dart_tool
-/QuickTask_app/.dart_tool
-/QuickTask_app/.dart_tool
+# Miscellaneous
+*.class
 *.log
-QuickTask_app/.dart_tool/chrome-device/Default/Extension State/LOG.old
-QuickTask_app/.dart_tool/chrome-device/Default/GCM Store/Encryption/LOG
-QuickTask_app/.dart_tool/chrome-device/Default/History-journal
-QuickTask_app/.dart_tool/chrome-device/Default/Local Storage/leveldb/000003.log
-QuickTask_app/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG
-QuickTask_app/.dart_tool/chrome-device/Default/Local Storage/leveldb/LOG.old
-QuickTask_app/.dart_tool/chrome-device/Default/Login Data
-QuickTask_app/.dart_tool/chrome-device/Default/Network/Network Persistent State
-QuickTask_app/.dart_tool/chrome-device/Default/Network/TransportSecurity
-QuickTask_app/.dart_tool/chrome-device/Default/Preferences
-QuickTask_app/.dart_tool/chrome-device/Default/Service Worker/Database/000003.log
-QuickTask_app/.dart_tool/chrome-device/Default/Service Worker/Database/LOG
-QuickTask_app/.dart_tool/chrome-device/Default/Service Worker/Database/LOG.old
-QuickTask_app/.dart_tool/chrome-device/Default/Service Worker/ScriptCache/index-dir/the-real-index
-QuickTask_app/.dart_tool/chrome-device/Default/Session Storage/000003.log
-QuickTask_app/.dart_tool/chrome-device/Default/Session Storage/LOG
-QuickTask_app/.dart_tool/chrome-device/Default/Session Storage/LOG.old
-QuickTask_app/.dart_tool/chrome-device/Default/Shared Dictionary/cache/index-dir/the-real-index
-QuickTask_app/.dart_tool/chrome-device/Default/shared_proto_db/metadata/000003.log
-QuickTask_app/.dart_tool/chrome-device/Default/shared_proto_db/metadata/LOG
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Visual Studio Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/

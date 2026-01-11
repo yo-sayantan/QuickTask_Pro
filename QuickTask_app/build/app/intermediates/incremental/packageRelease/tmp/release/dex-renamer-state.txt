@@ -1,4 +1,0 @@
-#Sun May 12 03:31:54 IST 2024
-base.0=D\:\\GitHub\\CPAD_Assignment_2023mt93245\\QuickTask_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
